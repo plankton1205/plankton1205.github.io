@@ -21,14 +21,12 @@
 title: plankton1205 | 浮游生物的博客
 email: prudence1205@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Here you will find the back up of all my blogs I've ever post. This 
-  website is host on GitHub and build with Jekyll. Jekyll is a nice 
-  static website builder. ;)
+  Here you will find the back up of all my blogs I've ever post. Host on
+  GitHub and build wilth Jekyll. ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://plankton1205.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: plankton_1205
 github_username:  plankton1205
-substack_username: plankton1205
 
 # Build settings
 theme: minima
