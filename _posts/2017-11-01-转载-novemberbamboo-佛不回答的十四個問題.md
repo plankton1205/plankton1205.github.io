@@ -1,12 +1,13 @@
 ---
 title: 转载 @novemberbamboo 佛不回答的十四個問題
 description: 转载 @novemberbamboo 发布于2017年11月1日的豆瓣贴文
-author: plankton1205
+author: others
 date: 2017-11-01 10:13:24 +0800
 categories: [share, repost]
 tags: [from Douban, material post]
 ---
-此文为转载，原作者为豆瓣用户 (石竹)[https://www.douban.com/people/novemberbamboo]，原帖链接：<https://www.douban.com/note/643394348>
+> 此文为转载，原作者为豆瓣用户 [石竹](https://www.douban.com/people/novemberbamboo)，原帖链接：<https://www.douban.com/note/643394348>
+{: .prompt-info }
 
 記下來，避免自己掉坑。想了一下，以前確實掉過不少次。😡 😡 😡 警醒自己。
 
