@@ -9,8 +9,6 @@ tags: [Larry Diamond, material essay]
 # 原文及其作者
 [Larry Diamond](https://twitter.com/LarryDiamond)，胡佛研究所高级研究员，斯坦佛大学政治及社会学教授，这篇“Power, Performance, and Legitimacy” 是他在2023年的[第20届利普塞特世界民主讲座](https://www.ned.org/seymour-martin-lipset-lecture-on-democracy-in-the-world/)上所发表的演讲。“Journal of Democracy” 第23卷第2期刊载[原文](https://www.journalofdemocracy.org/articles/power-performance-and-legitimacy/)，《中国民主季刊》第2卷第2期刊载[中文翻译](https://chinademocrats.org/?p=3092)。笔记中引用《墓碑》的部分参照天地图书有限公司第四版。
 
----
-
 > p5 I assess democracy in two ways: categorically, as either present or absent, and continuously, on a scale from zero to 100 that averages the three principal annual measures of liberal democracy. These are the Freedom House combined scale of political rights and civil liberties, the Democracy Index published by the Economist Intelligence Unit (EIU), and the Liberal Democracy Index put out by the Varieties of Democracy project (V-Dem). To track trends, I average these three measures—think of this average as a “poll of polls.”
 > To assess whether a country is a democracy or not, I ask whether the people of that country choose and replace their leaders in free and fair elections.
 
@@ -34,8 +32,6 @@ tags: [Larry Diamond, material essay]
 > p14 Another reason for the retreat of freedom and democracy has been the shifting balance of global power and prestige. “During the third wave, U.S. and European pressure, diplomatic engagement, and support often tipped the balance toward a successful transition (or away from democratic demise) in precarious circumstances.” But now, Washington, Brussels, and individual European democracies are less likely to exert pressure—not only in the form of sanctions, but even in the weaker forms of diplomatic efforts and statements of principle—to oppose democratic backsliding or, indeed, admit its existence.
 
 > p19 It is not they who have retreated from the struggle, but the wealthy and resourceful democracies. We are not waging the ideological struggle, the normative struggle, the informational struggle for democracy and freedom with all the energy, assets, conviction, coordination, and technological ingenuity that we should, and which the times demand.
-
----
 
 # 参考资料
 
