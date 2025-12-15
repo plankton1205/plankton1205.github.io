@@ -1,0 +1,43 @@
+---
+title: 论文笔记 权利，绩效与合法性
+description: 读戴雅门《权利，绩效与合法性》所作笔记与摘录
+author: plankton1205
+date: 2024-05-16 00:00:00 -0500
+categories: [note-taking, singlet]
+tags: [Larry Diamond, material essay]
+---
+# 原文及其作者
+[Larry Diamond](https://twitter.com/LarryDiamond)，胡佛研究所高级研究员，斯坦佛大学政治及社会学教授，这篇“Power, Performance, and Legitimacy” 是他在2023年的[第20届利普塞特世界民主讲座](https://www.ned.org/seymour-martin-lipset-lecture-on-democracy-in-the-world/)上所发表的演讲。“Journal of Democracy” 第23卷第2期刊载[原文](https://www.journalofdemocracy.org/articles/power-performance-and-legitimacy/)，《中国民主季刊》第2卷第2期刊载[中文翻译](https://chinademocrats.org/?p=3092)。笔记中引用《墓碑》的部分参照天地图书有限公司第四版。
+
+---
+
+> p5 I assess democracy in two ways: categorically, as either present or absent, and continuously, on a scale from zero to 100 that averages the three principal annual measures of liberal democracy. These are the Freedom House combined scale of political rights and civil liberties, the Democracy Index published by the Economist Intelligence Unit (EIU), and the Liberal Democracy Index put out by the Varieties of Democracy project (V-Dem). To track trends, I average these three measures—think of this average as a “poll of polls.”
+> To assess whether a country is a democracy or not, I ask whether the people of that country choose and replace their leaders in free and fair elections.
+
+- 文章以是否能通过自由公平的选举替换领导人作为判断国家是否民主的标准（有竞争的可能性，由独立的司法和管理机制主导，有媒体空间、公民参与、监督机制），以三项数值取平均对民主质量进行追踪，其分别为自由之家的政治权利和公民自由综合分值，经济学人智库的民主指数，民主多样性项目的自由民主指数。
+
+> p8 Democratic backsliding tendencies have also been contained by the early and vigorous countervailing action of state institutions, such as the courts and the civil service, and by political and civic strategies that pursue moderate goals using democratic institutional means.
+
+- 公务员、司法，以及一系列基本常务设施的专业、高效、中立对于选举民主体制至关重要；反制或反对应温和、中立、务实，系统建设比暴力破坏更难，冷静比激进更难得。
+- 近年来民主化趋势退行，转化成功率下降，转化成功者民主破碎或退行的速度加快。
+
+> p13 Belief in the legitimacy of democracy may be shaped by culture and history, but it is also driven by economic development and the performance of present versus past regimes. Newer democracies cannot rely on tradition as a source of legitimacy, but must show that they can solve problems and deliver what people want from government. A long record of effective performance—in delivering economic growth and opportunity, reducing poverty and inequality, providing social services, controlling corruption, and maintaining political order and security—fills a reservoir of legitimacy that can sustain a democracy in times of crisis. … The most dangerous democratic illusion is the vanity of permanence, the notion that because democracy has become deeply legitimized through decades of effective performance, it will never unravel. 
+
+- 民主的合法性将主要取决于民主政府的实际表现，选举民主不是理所当然的趋势，而只是一种政体选项。选举民主也并不必然带来良好的社会治理，而是在一个制度下得到良好治理的社会会给其政府和制度带来合法性。
+- 实力仍然重要，军事、动员、信息、国际，等等。全球的自由程度是关联的，因为没有自由公平选举的政权难以获得稳定持续的合法性，他们将倾向于通过煽动仇恨、压制言论、阻挠信息自由流通来稳固自身。
+
+> p18-19 Power and legitimacy are two sides of one story that determines who rules. The more power you can muster, the less legitimacy you need. And vice-versa. But legitimacy is also a form of power. The great Czech democrat, Václav Havel, understood that to deny an unjust regime legitimacy, to “live within the truth” and refuse cooperation, even in mundane ways, is a form of power, “the power of the powerless.”
+
+- 以下对比插入《墓碑》里的一段文字：
+> p19 在過去的皇權制度下，老百姓有沉默的權利；極權制度下，老百姓連沉默的權利也被剝奪。一次一次的政治運動，大大小小的會議 ，要求每一個人「表態」，要求人們「暴露思想」、「向黨交心」。每一個人思想深處最為隱秘之處，也必須向黨敞開，讓黨檢查。高壓政治下的「表態」實際是強迫人們對自己的良心撒謊，使人們失去了心靈深處最後的一點領地。這樣一次又一次的自我作賤，使人們不斷地踐踏自己過去尊敬的東西，奉承過去瞧不起的束西。極權制度就是這樣使民族性堕落。大躍進和文化大革命中，人們表現的那樣瘋狂，那樣的殘忍，正是民族性堕落的結果，也正是極權制度的「政績」。
+
+> p14 Another reason for the retreat of freedom and democracy has been the shifting balance of global power and prestige. “During the third wave, U.S. and European pressure, diplomatic engagement, and support often tipped the balance toward a successful transition (or away from democratic demise) in precarious circumstances.” But now, Washington, Brussels, and individual European democracies are less likely to exert pressure—not only in the form of sanctions, but even in the weaker forms of diplomatic efforts and statements of principle—to oppose democratic backsliding or, indeed, admit its existence.
+
+> p19 It is not they who have retreated from the struggle, but the wealthy and resourceful democracies. We are not waging the ideological struggle, the normative struggle, the informational struggle for democracy and freedom with all the energy, assets, conviction, coordination, and technological ingenuity that we should, and which the times demand.
+
+---
+
+# 参考资料
+
+- Diamond, L. (2024). Power, Performance and Legitimacy. Journal of Democracy, 35(2), 5–22.
+- 楊繼繩. (2008). 墓碑——中國六十年代大饑荒紀實. 天地圖書有限公司
