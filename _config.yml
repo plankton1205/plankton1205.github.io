@@ -122,7 +122,7 @@ comments:
   giscus:
     repo: "plankton1205/plankton1205.github.io"
     repo_id: "R_kgDOQo0o_g"
-    category: "General"
+    category: General
     category_id: "DIC_kwDOQo0o_s4CzzSz"
     mapping: "title"
     strict: # optional, default to '0'
