@@ -108,7 +108,7 @@ social_preview_image: "/assets/img/brand/preview_1200_630.png"
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments:
+comments: true
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: giscus
   # The provider options are as follows:
@@ -123,7 +123,7 @@ comments:
     repo: "plankton1205/plankton1205.github.io"
     repo_id: "R_kgDOQo0o_g"
     category: "General"
-    category_id: "DIC_kwDOQo0o_s4CzzSz"
+    category_id: "DIC_kwDOQpIRWc4Cz0sB"
     mapping: "title"
     strict: # optional, default to '0'
     input_position: "top"
