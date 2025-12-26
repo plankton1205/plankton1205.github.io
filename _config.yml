@@ -122,8 +122,8 @@ comments:
   giscus:
     repo: "plankton1205/plankton1205.github.io"
     repo_id: "R_kgDOQpIRWQ"
-    category: "General"
-    category_id: "DIC_kwDOQpIRWc4Cz0sB"
+    category: "Announcements"
+    category_id: "DIC_kwDOQpIRWc4Cz0sA"
     mapping: "title"
     strict: # optional, default to '0'
     input_position: "top"
