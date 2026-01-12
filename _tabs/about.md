@@ -11,3 +11,9 @@ Basically this is just a place you will find all blogs. In the minimalist style,
 So you should see what this website is all about. It's straghit forward, most posts should just be the same as my Substack newsletter, except two differences: 1. Some short contents that I just posted as notes will be collected if I think they worth, so this back up site will be the most complete reservoir of my blog; 2. As it is supposed to be, posts in here will contain no image, only text, it should work well across any tools that support markdown syntax (even if not, just plain text editor can do the job too). As you would in the side bar, posts are organized in different ways: 1. "archives" is where everything be listed in time sequence; 2. "categories" is my favourite, where you will find the nested structure of different catrgories, and easily retrive all the posts under any one of them; 3. "tags" will show you all tags I've used so far and allow you to retrive all the posts that contains a selected tag.
 
 Thanks for your reading! Enjoy.
+
+---
+- RSS subscription link for this site: <https://plankton1205.github.io/feed.xml>
+- Link to subscribe my blog as a Newsletter: <https://linqin.substack.com/welcome>
+  - Notice that, the most difference from subscribe to this website by RSS and subscribe to my Newsletter on a platform called Substack, is that I send my newsletter once per week, likely on the weekend; but I post my writings to this site whenever they are finished - and I constantly keep about 20 drafts as a buffer between my random productivity rate and a decent updating rate.
+- Link to donate any amount if you like: <https://buymeacoffee.com/plankton1205>
