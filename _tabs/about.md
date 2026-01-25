@@ -13,7 +13,15 @@ So you should see what this website is all about. It's straghit forward, most po
 Thanks for your reading! Enjoy.
 
 ---
+
 - RSS subscription link for this site: <https://plankton1205.github.io/feed.xml>
 - Link to subscribe my blog as a Newsletter: <https://linqin.substack.com/welcome>
   - Notice that, the most difference between subscribe to this website by RSS and subscribe to my Newsletter on a platform called Substack, is that I send my newsletter once per week, likely on the weekend; but I post my writings to this site whenever they are finished - and I constantly keep about 20 drafts as a buffer between my random productivity rate and a decent updating rate.
 - Link to donate any amount if you like: <https://buymeacoffee.com/plankton1205>
+
+---
+
+Out of context dino game:
+
+<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
+<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style> 
