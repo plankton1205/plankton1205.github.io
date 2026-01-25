@@ -21,7 +21,7 @@ Thanks for your reading! Enjoy.
 
 ---
 
-Out of context dino game:
+Out of context T-Rex Dinosaur game:
 
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="60%" height="50%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style> 
+<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="800" height="500" loading="lazy"></iframe>
+<style type="text/css">iframe { position: absolute; width: 800; height: 500; z-index: 999; }</style> 
