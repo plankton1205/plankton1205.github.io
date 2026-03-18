@@ -4,7 +4,7 @@ description: Examples of text, typography, math equations, diagrams, flowcharts,
 author: plankton1205
 date: 2025-12-15 11:33:00 -0500
 categories: [uncategory]
-tags: [test]
+tags: [unpublished]
 comments: true
 ---
 
