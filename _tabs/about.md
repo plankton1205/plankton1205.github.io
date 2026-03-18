@@ -8,7 +8,7 @@ order: 4
 
 Hello there! Didn't expect that you would find such a quiet corner in today's internet. But welcome, for sure.
 
-I am a blogger, this site is a self-constructed backup for all my content. You could visit the same thing with a prettier UI at my [Substack](https://linqin.substack.com). I read inspiring books and record my reading notes, sometimes also post some random thoughts. And if you feel like this doesn't look like a literature blog, but more like a tech journal — you got a point, I built this website from source code, not a common choice for my type. But it is not that savvy, try to search about [Jekyll](https://jekyllrb.com/) the static website generator if you're interested in. If you got any thoughts about my blog or generally anything about me, contact me with the email button at the sidebar, or leave a comment under any post you like! Just you would need a GitHub to do that.
+I am a blogger, this site is a self-constructed backup for all my content. You could visit the same thing with a prettier UI at my [Substack](https://linqin.substack.com). I read inspiring books and record my reading notes, sometimes also post some random thoughts. And if you feel like this doesn't look like a literature blog, but more like a tech journal — you got a point, I built this website from source code, not a common choice for my type. But it is not that savvy, try to search about [Jekyll](https://jekyllrb.com/) the static website generator if you're interested in. If you got any thoughts about my blog or generally anything about me, contact me with the email button at the sidebar, or leave a comment under any post you like! Just you would need a GitHub account to do that.
 
 Enjoy your exploration!
 
