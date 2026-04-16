@@ -3,7 +3,7 @@ title: Markdown test
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: plankton1205
 date: 2025-12-15 11:33:00 -0500
-categories: [uncategory]
+categories: [uncategory, self]
 tags: [unpublished]
 comments: true
 ---
