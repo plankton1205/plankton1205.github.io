@@ -43,6 +43,9 @@ Item
 > An example showing the `tip` type prompt.
 {: .prompt-tip }
 
+> An example showing the `info` type prompt.
+{: .prompt-info }
+
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 > And this is too much trouble
