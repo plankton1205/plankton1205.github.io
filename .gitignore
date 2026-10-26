@@ -27,5 +27,5 @@ _sass/vendors
 assets/js/dist
 
 # custom
-.auto-sync.log
+.auto-sync.sh
 .auto-sync.log
