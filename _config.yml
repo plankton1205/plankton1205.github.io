@@ -41,8 +41,7 @@ social:
     - https://x.com/plankton_1205 # change to your Twitter homepage
     - https://github.com/plankton1205 # change to your GitHub homepage
     # Uncomment below to add more social links
-    - https://substack.com/@plankton1205
-    - https://buymeacoffee.com/plankton1205
+    - https://gravatar.com/honestlyalpaca1827180490
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
@@ -217,6 +216,7 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - ".auto-sync.*"
 
 jekyll-archives:
   enabled: [categories, tags]

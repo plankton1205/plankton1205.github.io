@@ -29,4 +29,5 @@ Thanks for your reading! Enjoy.
 - RSS feed for this site: <https://plankton1205.github.io/feed.xml>
 - Subscribe my blog as a newsletter: <https://linqin.substack.com/welcome>
   - Notice that, the most difference between subscribe to this website by RSS and subscribe to my newsletter on that platform called Substack, is that I send my newsletter once per week, likely on the weekend; but I post my writings to this site whenever they are finished - and I constantly keep about 20 drafts as a buffer between my random productivity rate and a decent updating rate.
+- Another project I made (on development, and currently in CN only): <https://anothercalendar.app/>
 - Donate any amount if you like: <https://buymeacoffee.com/plankton1205>
